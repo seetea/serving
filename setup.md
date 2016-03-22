@@ -1,3 +1,6 @@
+---
+---
+
 # Installation
 
 ## Prerequisites
@@ -110,7 +113,7 @@ To test your installation, execute:
 bazel test tensorflow_serving/...
 ~~~
 
-See the [basic tutorial](serving_basic.md) and [advanced tutorial](serving_advanced.md)
+See the [basic tutorial](serving_basic) and [advanced tutorial](serving_advanced)
 for more in-depth examples of running TensorFlow Serving.
 
 
